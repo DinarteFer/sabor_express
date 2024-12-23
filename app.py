@@ -33,7 +33,7 @@ def escolher_opcao():
         os.system('cls')
         finalizar_app()
 
-def main()
+def main():
     exibir_nome_do_programa()
     exibir_opcoes()
     escolher_opcao()
